@@ -1,0 +1,6 @@
+@MarvelHerosAPI_HostAddress = http://localhost:5250
+
+GET {{MarvelHerosAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
